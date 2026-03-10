@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/joão-pedro-9b1a4b313" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-pedro-9b1a4b313" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Jo%C3%A3o%20Pedro&logo=linkedin&label=Linkedin&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -31,7 +31,7 @@
 ###
 
 <div align="left">
-  <a href="joaopazvdo@gmail.com" target="_blank">
+  <a href="https://www.joaopazvdo@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=joaopazvdo@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=D14836&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
