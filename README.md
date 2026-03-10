@@ -31,7 +31,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.joaopazvdo@gmail.com" target="_blank">
+  <a href="mailto:joaopazvdo@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=joaopazvdo@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=D14836&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
